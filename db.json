@@ -1,0 +1,105 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "This is America",
+      "published": true
+    },
+    {
+      "id": 2,
+      "title": "Wow",
+      "published": false
+    },
+    {
+      "id": 3,
+      "title": "Wow oh my",
+      "published": true
+    }
+  ],
+  "user": [
+    {
+      "id": "95b24494-9317-44f8-80ed-19e472c5487c",
+      "name": "Michale Howe PhD",
+      "dob": "1947-11-06T20:22:09.612Z",
+      "email": "Michale_Howe2@hotmail.com",
+      "username": "Michale.Howe",
+      "password": "VreITlzGheIzTwu",
+      "phone": "(216) 723-9998",
+      "streetaddress": "15853 Heathcote Shores",
+      "citystatezip": "Ahmedfurt, Florida 80616-7237",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/32.jpg"
+    },
+    {
+      "id": "c627e8c1-b291-4b26-a58b-da7cb4ffcda2",
+      "name": "Violet Schuppe",
+      "dob": "1986-06-17T20:46:38.570Z",
+      "email": "Violet.Schuppe@yahoo.com",
+      "username": "Violet.Schuppe",
+      "password": "hxmaXBKY31hTUiK",
+      "phone": "770-960-1867 x903",
+      "streetaddress": "365 Helene Park",
+      "citystatezip": "Bayerboro, Wyoming 41051",
+      "avatar": "https://avatars.githubusercontent.com/u/63954970"
+    },
+    {
+      "id": "25c8e8ce-a6e2-452c-9865-0518cdc51e1a",
+      "name": "Sedrick Jaskolski Jr.",
+      "dob": "2005-02-07T04:43:17.825Z",
+      "email": "Sedrick.Jaskolski46@hotmail.com",
+      "username": "Sedrick_Jaskolski19",
+      "password": "0yYckLuvw73lVwY",
+      "phone": "881.239.9092 x925",
+      "streetaddress": "418 Runolfsdottir Corners",
+      "citystatezip": "Aniyahland, California 42115-2842",
+      "avatar": "https://avatars.githubusercontent.com/u/21024676"
+    },
+    {
+      "id": "4a42fcb0-bcc8-4c56-b59d-932905a2c246",
+      "name": "Norris Gutmann",
+      "dob": "1952-03-12T06:58:33.810Z",
+      "email": "Norris.Gutmann61@yahoo.com",
+      "username": "Norris_Gutmann68",
+      "password": "9cLQ7NnS_Gxr1aV",
+      "phone": "1-902-794-8919 x997",
+      "streetaddress": "667 N Pearl Street",
+      "citystatezip": "North Jay, Ohio 20117",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/282.jpg"
+    },
+    {
+      "id": "49b5cabd-8968-4b2b-a3f0-34118448966f",
+      "name": "Mrs. Reuben Hickle",
+      "dob": "1958-04-04T08:47:24.327Z",
+      "email": "Reuben_Hickle@gmail.com",
+      "username": "Reuben.Hickle",
+      "password": "cWehYMn3_jl9lIV",
+      "phone": "841.800.0571 x7115",
+      "streetaddress": "61069 Germaine Estates",
+      "citystatezip": "Vivaland, Mississippi 26753",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/106.jpg"
+    },
+    {
+      "id": "fdb7adc6-b622-4a5b-aabb-cc35a6fe9071",
+      "name": "Gabrielle Stanton",
+      "dob": "1945-09-30T04:54:59.221Z",
+      "email": "Gabrielle_Stanton@yahoo.com",
+      "username": "Gabrielle.Stanton",
+      "password": "UDOVS0PhyItuF_j",
+      "phone": "290-509-8240",
+      "streetaddress": "8135 Sanford Parks",
+      "citystatezip": "Starkstad, Alaska 25384",
+      "avatar": "https://avatars.githubusercontent.com/u/45390408"
+    },
+    {
+      "id": "753f0e37-9b10-4556-bd9f-0133f3312b13",
+      "name": "Georgianna Spencer",
+      "dob": "1989-01-22T07:03:25.833Z",
+      "email": "Georgianna_Spencer62@hotmail.com",
+      "username": "Georgianna.Spencer",
+      "password": "FcLczd4IkDTX2X0",
+      "phone": "1-668-354-9556 x90896",
+      "streetaddress": "89015 River Street",
+      "citystatezip": "Cummerataborough, North Carolina 15146-8791",
+      "avatar": "https://avatars.githubusercontent.com/u/16977486"
+    }
+  ]
+}
